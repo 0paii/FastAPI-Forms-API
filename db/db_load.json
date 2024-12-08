@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Form user_data",
+    "email": "email",
+    "phone": "tel"
+  },
+  {
+    "name": "Form message",
+    "text": "str",
+    "date": "date"
+  },
+  {
+    "name": "Form all_info",
+    "email": "email",
+    "phone": "tel",
+    "text": "str",
+    "date": "date"
+  },
+  {
+    "name": "Form reg_user_data",
+    "email": "email",
+    "phone": "tel",
+    "registration_date": "date",
+    "text": "str"
+  },
+  {
+    "name": "Only email",
+    "email": "email"
+  }
+]
